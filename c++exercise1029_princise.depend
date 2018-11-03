@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1541076244 source:d:\codeblocks\codec++\c++exercise1029_princise\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<array>
+	<ctime>
+	<string>
+	<string.h>
+	"BaseValue.h"
+
+1541077909 source:d:\codeblocks\codec++\c++exercise1029_princise\basevalue.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<array>
+	<ctime>
+	<string.h>
+	"BaseValue.h"
+
+1541075367 d:\codeblocks\codec++\c++exercise1029_princise\basevalue.h
+	<iostream>
+	<iomanip>
+	<array>
+	<ctime>
+	<string.h>
+
